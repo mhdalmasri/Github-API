@@ -1,0 +1,30 @@
+html{ font-family: 'Ubuntu', sans-serif;}
+body {
+  
+  padding-bottom: 20px;
+}
+main{
+  margin-top: 65px
+}
+
+.card {
+  width: 300px;
+}
+
+.card-title {
+  height: 100px
+}
+.card-text {
+  height: 120px
+}
+
+#repos {
+  padding: 10px 75px
+}
+
+#avatar {
+  width: 250px;
+  border-radius: 200%;
+  padding-bottom: 20px
+}
+
